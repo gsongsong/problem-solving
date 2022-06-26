@@ -174,6 +174,7 @@
  :ref/linked-references-collapsed-threshold 50
  :default-home {:page "Problem Solving"}
  :publishing/all-pages-public? true
+ :mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 1}, :checkbox {:counts 92}, :parentheses {:counts 14}, :command {:counts 0}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 1}, :strikethrough {:counts 2}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 14}, :tag {:counts 44}, :brackets {:counts 46}, :italic {:counts 3}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
 

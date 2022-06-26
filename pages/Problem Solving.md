@@ -1,1 +1,4 @@
-- [:a {:href "#/all-journals"} "Journals"]
+- [:a {:href "#/all-journals"} "By day"]
+- By site
+	- [[Baekjoon]]
+- By [[algorithm]]
